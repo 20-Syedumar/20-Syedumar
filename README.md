@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me @Nattyumar
 - 😄 Pronouns: Him/he
-- ⚡ Fun fact: im 21 looks 25
+- ⚡ Fun fact: :'(
 -
 - !---
 20-Syedumar/20-Syedumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
