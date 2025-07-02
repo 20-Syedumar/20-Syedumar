@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @20-Syedumar
 - 👀 I’m interested in Weight lifting
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me @Nattyumar
 - 😄 Pronouns: Him/he
