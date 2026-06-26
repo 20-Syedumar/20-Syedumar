@@ -67,7 +67,7 @@ me.say_hi()
 
 | 🏠 Project | 📝 Description | 🔧 Tech |
 |:---:|:---:|:---:|
-| **House Price Prediction** | Regression model with R² = 0.87 | Python, Scikit-learn, Pandas |
+| **House Price Prediction** | Regression model with R² = 0.93 | Python, Scikit-learn, Pandas |
 | **Student Result Classifier** | Multi-class classification (KNN, SVM, DT) | Python, Scikit-learn, Matplotlib |
 | **Sentiment Analysis** | 82% accuracy on product reviews | Python, NLTK, TF-IDF |
 | **Sorting Visualiser** | Visual step-by-step sorting algorithms | Python |
